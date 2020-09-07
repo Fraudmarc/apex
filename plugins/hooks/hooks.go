@@ -9,8 +9,8 @@ import (
 
 	"github.com/apex/log"
 
-	"github.com/apex/apex/archive"
-	"github.com/apex/apex/function"
+	"github.com/fraudmarc/apex/archive"
+	"github.com/fraudmarc/apex/function"
 )
 
 func init() {

@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	"github.com/apex/apex/utils"
+	"github.com/fraudmarc/apex/utils"
 	"github.com/stretchr/testify/assert"
 )
 
