@@ -1,7 +1,12 @@
 
 # No longer maintained
 
-This software is no longer being maintainted and should not be chosen for new projects. See this [issue](https://github.com/fraudmarc/apex/issues/932) for more information
+This software is no longer being maintainted and should not be chosen for new projects. See this [issue](https://github.com/apex/apex/issues/932) for more information
+
+## 2020 Sept - Releases available
+
+Copied from TJ's [Apex archive](https://github.com/visionmedia/apex) to re-publish release binaries.
+
 
 ![Apex Serverless Architecture](assets/title.png)
 
@@ -14,12 +19,12 @@ This project is designed for event-driven pipelines as it does not abstract away
 On macOS, Linux, or OpenBSD run the following:
 
 ```
-curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sh
+curl https://raw.githubusercontent.com/fraudmarc/apex/master/install.sh | sh
 ```
 
 Note that you may need to run the `sudo` version below, or alternatively chown `/usr/local`:
 ```
-curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sudo sh
+curl https://raw.githubusercontent.com/fraudmarc/apex/master/install.sh | sudo sh
 ```
 
 On Windows download [binary](https://github.com/fraudmarc/apex/releases).
