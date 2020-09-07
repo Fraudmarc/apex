@@ -4,7 +4,7 @@ package python
 import (
 	"strings"
 
-	"github.com/apex/apex/function"
+	"github.com/fraudmarc/apex/function"
 )
 
 func init() {

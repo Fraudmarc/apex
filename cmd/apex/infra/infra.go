@@ -6,8 +6,8 @@ import (
 
 	"github.com/tj/cobra"
 
-	"github.com/apex/apex/cmd/apex/root"
-	"github.com/apex/apex/infra"
+	"github.com/fraudmarc/apex/cmd/apex/root"
+	"github.com/fraudmarc/apex/infra"
 )
 
 // example output.
