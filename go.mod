@@ -7,7 +7,7 @@ require (
 	github.com/apex/log v1.0.0
 	github.com/aws/aws-sdk-go v1.13.52
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59
-	github.com/buger/goterm v0.0.0-20180423150900-6d19e6a8df12
+	github.com/buger/goterm v0.0.0-20200322175922-2f3e71b85129
 	github.com/c4milo/unpackit v0.0.0-20170704181138-4ed373e9ef1c
 	github.com/davecgh/go-spew v1.1.0
 	github.com/dsnet/compress v0.0.0-20171208185109-cc9eb1d7ad76
